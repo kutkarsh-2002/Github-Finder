@@ -1,0 +1,12 @@
+.header {
+  font-weight: 1800px;
+  letter-spacing: 0px;
+  font-size: 18px;
+  font-family: sans-serif;
+}
+.img_tag {
+  height: 48px;
+  width: 50px;
+  align-items: left;
+  padding-right: 8px;
+}
